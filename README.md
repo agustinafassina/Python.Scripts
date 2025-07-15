@@ -3,3 +3,8 @@ This repository contains Python scripts designed to automate recurring tasks. Am
 
 ### Structure
 └─ README.md
+└─ ./generate-token/generate-token.py
+└─ generate-random-password.py
+
+### Comments
+- Key generator: https://randomkeygen.com/
