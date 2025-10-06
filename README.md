@@ -19,3 +19,13 @@ Test connection for Mysql
 ```
 python mongodb-test-connection.py
 ```
+
+Test connection for Redis
+```
+python redis-test-connection.py
+```
+
+Test connection for Postgres
+```
+python postgres-test-connection.py
+```
