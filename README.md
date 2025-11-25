@@ -8,3 +8,24 @@ This repository contains Python scripts designed to automate recurring tasks. Am
 
 ### Comments
 - Key generator: https://randomkeygen.com/
+
+#### Test connection with scripts in python
+Test connection for MongoDB
+```
+python mongodb-test-connection.py
+```
+
+Test connection for Mysql
+```
+python mongodb-test-connection.py
+```
+
+Test connection for Redis
+```
+python redis-test-connection.py
+```
+
+Test connection for Postgres
+```
+python postgres-test-connection.py
+```
